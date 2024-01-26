@@ -14,5 +14,6 @@
 
 ### Work-in-Progress Modules
 
+- [Multivariate Approaches](https://github.com/QM-Life-Sci/QMLS_2-Multivariate)
 - Bayesian Inference 2
-- Multivariate Approaches
+
