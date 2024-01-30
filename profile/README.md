@@ -3,6 +3,7 @@
 ## Quantitative Methods in Life Sciences 1
 
 - [Repository](https://github.com/QM-Life-Sci/QMLS_1)
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLeIk-G-wZpqyys1lUuWQDxeMQA1ICncmH)
 
 ## Quantitative Methods in Life Sciences 2
 
